@@ -1,9 +1,9 @@
-import './App.css';
+import Body from "./components/Body";
 
 function App() {
   return (
-    <div className="text-3xl font-bold bg-red-500">
-      Namsete Netflx
+    <div>
+      <Body />
     </div>
   );
 }
